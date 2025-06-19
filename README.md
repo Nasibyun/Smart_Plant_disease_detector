@@ -1,0 +1,1 @@
+# Smart_Plant_disease_detector
