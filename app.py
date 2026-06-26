@@ -3,7 +3,7 @@ import gradio as gr
 import numpy as np
 from PIL import Image
 
-model = load_model("model.h5")
+model = load_model("Plant_disease_detector.h5")
 
 categories = [
     "Pepper__bell___Bacterial_spot",
