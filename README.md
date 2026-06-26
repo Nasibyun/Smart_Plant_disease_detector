@@ -131,7 +131,7 @@ It covers multiple disease categories, including healthy leaves, enabling the mo
 
 Experience the application directly through Hugging Face Spaces:
 
-👉 https://huggingface.co/spaces/Nasibbb/plant-disease-detector
+👉 https://huggingface.co/spaces/Nxsib/plant-disease-detector
 
 Simply upload a leaf image and the model will predict the most likely disease along with confidence scores.
 
